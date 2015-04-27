@@ -27,3 +27,4 @@ Additional links:
 Contact (feel free to ask about things!):
 - spierek /at/ gmail.com
 - @Spierek on Twitter
+- http://spierek.net
