@@ -23,3 +23,7 @@ Additional links:
 - http://vvvv.org/documentation/osc - VVVV documentation for the OSC protocol
 - https://github.com/heaversm/unity-osc-receiver - OSC to Unity implementation in this project is based off this one, look it up if you prefer JS instead of C#
 - https://github.com/jorgegarcia/UnityOSC/ - other OSC to Unity implementation, is also cool
+
+Contact (feel free to ask about things!):
+- spierek /at/ gmail.com
+- @Spierek on Twitter
