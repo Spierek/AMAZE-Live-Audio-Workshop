@@ -35,6 +35,10 @@ Open up the Unity project and launch the "tunnel.unity" scene (it's in the Scene
 
 <img src="http://i.imgur.com/9srT4XT.png" align="center">
 
+PRO TIP: To be able to listen to your music while it's being passed through a digital audio cable, go to Sound > Recording, select the audio cable output, go to Properties > Listen and enable "Listen to this device" via your standard audio output (like Speakers).
+
+<img src="http://i.imgur.com/NHJD7eN.png" align="center">
+
   
 ####Additional links:
 - http://www.creativeapplications.net/mac/visuals-for-sonar-festival-vdmx-to-unity3d-tutorials/ - great tutorial for Soundflower / VDMX integration on Mac
